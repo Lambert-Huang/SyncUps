@@ -1,0 +1,13 @@
+//
+//  Staging.xcconfig
+//  SyncUps
+//
+//  Created by anderson on 10/05/2024.
+//  Copyright © 2024 lambert. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+XCC_BUNDLE_NAME = SyncUps-Staging
+XCC_CONFIG_PATH = Staging/BuildConfiguration.plist
